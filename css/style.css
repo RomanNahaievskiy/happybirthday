@@ -133,6 +133,7 @@ h2 {
     border: 2px solid #f96600;
     display: flex;
     justify-content: center;
+    margin-bottom: 15px;
 }
 .footer {
     height: 200px;
