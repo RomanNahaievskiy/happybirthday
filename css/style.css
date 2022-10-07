@@ -123,9 +123,15 @@ h2 {
 .main__link {
 }
 .galery {
+    padding: 50px 0;
     display: flex;
     font-display: row;
     justify-content: space-around;
+}
+
+.galery__item {
+    border: 2px solid #f96600;
+    text-align: center;
 }
 .footer {
     height: 200px;
