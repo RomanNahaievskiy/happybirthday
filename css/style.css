@@ -131,7 +131,8 @@ h2 {
 
 .galery__item {
     border: 2px solid #f96600;
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 .footer {
     height: 200px;
